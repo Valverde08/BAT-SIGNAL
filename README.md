@@ -1,6 +1,4 @@
-Com certeza! Com base nas imagens e nos requisitos do documento que você enviou (Desafio do Bat Sinal - DIO), elaborei um README.md profissional e completo para o seu projeto.
 
-Ele destaca as funcionalidades solicitadas (Tela 1 e Tela 2), as tecnologias e como rodar o app.
 
 🦇 Bat Signal App
 Este projeto é uma aplicação móvel desenvolvida com React Native e Expo, criada como parte do #DesafioDoFelipao da DIO (Digital Innovation One).
