@@ -1,7 +1,7 @@
 
 
 🦇 Bat Signal App
-Este projeto é uma aplicação móvel desenvolvida com React Native e Expo, criada como parte do #DesafioDoFelipao da DIO (Digital Innovation One).
+Este projeto é uma aplicação móvel desenvolvida com React Native e Expo
 
 O objetivo é criar uma interface interativa que simula o acionamento do "Bat Sinal", alternando entre uma tela de apresentação e um formulário de cadastro de emergência.
 
